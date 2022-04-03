@@ -55,7 +55,7 @@ int main()
     cout << " \n";
 
     for (contador = 1; contador <=10; contador ++){//Testa a cada iteração
-       cout << contador <<" \n";
+       cout << contador <<" \n"   ;
 
     }
 
