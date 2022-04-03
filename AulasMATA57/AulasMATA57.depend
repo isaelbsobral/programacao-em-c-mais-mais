@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1649010101 source:d:\ufba\aulas mata57\aulasmata57\main.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+	<iomanip>
+
+1649001926 source:d:\ufba\aulas mata57\aulasmata57\swtichemc.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+
+1649005867 source:d:\ufba\aulas mata57\aulasmata57\teste.cpp
+	<iostream>
+	<stdlib.h>
+	<locale.h>
+
