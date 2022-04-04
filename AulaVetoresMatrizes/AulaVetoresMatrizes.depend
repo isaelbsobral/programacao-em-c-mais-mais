@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649031627 source:d:\ufba\aulas mata57\aulavetoresmatrizes\main.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+
