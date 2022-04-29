@@ -8,7 +8,7 @@ Resoluções de atividades realizadas durante a disciplina MATA57 - Laboratório
 
 ## Objetivo :dart:
 
-Práticas de programação em linguagem C++.
+Aprender a sintaxe da linguagem C++ e praticar exercícios.
 
 
 ## Ferramentas utilizadas :gear:
@@ -18,7 +18,7 @@ Práticas de programação em linguagem C++.
  - [Jude Contest System](http://200.128.51.30/#/contest/dashboard) - Plataforma de submissão de atividades desenvolvida por docentes da UFBA.
 
 
-## Arendizados :memo:
+## Aprendizados :memo:
 
 Em construção.
 
